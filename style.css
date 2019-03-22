@@ -1,0 +1,28 @@
+.one
+{
+color:red;
+}
+
+@media screen and (max-width:800px)
+{
+.one
+{
+color:blue;
+}
+.logo
+{
+margin:auto;
+display:none;
+}
+
+
+}
+
+@media screen and (max-width:600px)
+{
+.one
+{
+color:yellow;
+}
+
+}
